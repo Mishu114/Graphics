@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Downloads\3D\main.cpp(578,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Downloads\3D\main.cpp(636,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Downloads\3D\main.cpp(640,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Downloads\3D\main.cpp(564,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\Downloads\3D\main.cpp(564,81): warning C4101: 'scaleMatrix': unreferenced local variable
+D:\Downloads\3D\main.cpp(564,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\Downloads\3D\main.cpp(564,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\Downloads\3D\main.cpp(564,19): warning C4101: 'translateMatrix': unreferenced local variable
+  3D.vcxproj -> D:\Downloads\3D\x64\Debug\3D.exe
